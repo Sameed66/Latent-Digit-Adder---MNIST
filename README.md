@@ -19,6 +19,8 @@ For example:
 
 The project also includes an optional generative extension using a **Variational Autoencoder (VAE)** and a **generative latent addition model**.
 
+![Overview](assets/project.png)
+
 ---
 
 ## Table of Contents
