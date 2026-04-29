@@ -475,7 +475,7 @@ Learning-to-Add-and-Generate-MNIST/
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/Learning-to-Add-and-Generate-MNIST.git
+git clone https://github.com/Sameed66/Learning-to-Add-and-Generate-MNIST.git
 cd Learning-to-Add-and-Generate-MNIST
 ```
 
